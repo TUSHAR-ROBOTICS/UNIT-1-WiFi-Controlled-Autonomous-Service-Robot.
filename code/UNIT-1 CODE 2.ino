@@ -4,8 +4,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid     = "tushar";
-const char* password = "tushar12";
+const char* ssid     = "UNIT-1";
+const char* password = "UNIT-1KEY";
 ESP8266WebServer server(80);
 
 #define SCREEN_WIDTH 128
